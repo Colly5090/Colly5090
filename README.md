@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FF7BD&width=635&lines=Hey!+You+Are+Welcome+To+My+Profile;I'm+Collins%2C+a+Fullstack+Software+Engineer.+;Passionate+About+Solving+Complex+Tech+Challenges.+;Always+Learning%2C+Coding%2C+And+Building+Great+Solutions.;Feel+Free+To+Explore+My+Projects!+%F0%9F%9A%80++)](https://git.io/typing-svg)
 
 <h2 align="center"><strong>Hi, I'm Collins Boakye</strong></h2>
-![Repo Views](https://komarev.com/ghpvc/?username=colly5090&label=Repository%20Views&color=blue&style=plastic)
+[Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=plastic)
 
 <h3 align="center"><strong>A passionate Software Engineer from Ghana</strong></h3>
 
