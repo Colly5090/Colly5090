@@ -6,6 +6,10 @@
 
 <h3 align="center"><strong>A passionate Software Engineer from Ghana</strong></h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=plastic)
+
+![Static Badge](https://img.shields.io/badge/Portfolio-view)
+
 - 💻 Software Engineer specialized in Frontend Development.
 - 🎓 ALX School Graduate – trained in modern software engineering practices.
 - 🏡 Currently building a Rental House Website to enhance property management.
@@ -49,5 +53,3 @@
 </table>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=colly5090&theme=darkhub)
-
-![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=plastic)
