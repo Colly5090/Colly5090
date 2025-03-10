@@ -40,10 +40,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colly5090&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colly5090&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=colly5090&theme=dark)
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=colly5090&show_icons=true&theme=dark" width="400"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colly5090&layout=compact&theme=dark" width="325"></td>
+    <td align="center"><img src="https://streak-stats.demolab.com/?user=colly5090&theme=dark" width="400"></td>
+  </tr>
+</table>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=colly5090&theme=darkhub)
