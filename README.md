@@ -19,3 +19,26 @@
 | [GitHub](https://github.com/yourusername)       | C                             |
 | [Twitter](https://twitter.com/yourhandle)       | JavaScript                    |
 | [Portfolio](https://yourwebsite.com)            | HTML & CSS                    |
+
+<table>
+  <tr>
+    <td align="center"><b>Connect with Me</b></td>
+    <td align="center"><b>Languages I've Learned</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="linkedin-icon.png" width="40"></td>
+    <td align="center">Python</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="github-icon.png" width="40"></td>
+    <td align="center">C</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="twitter-icon.png" width="40"></td>
+    <td align="center">JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="portfolio-icon.png" width="40"></td>
+    <td align="center">HTML & CSS</td>
+  </tr>
+</table>
