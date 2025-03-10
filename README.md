@@ -22,23 +22,21 @@
 
 <table>
   <tr>
-    <td align="center"><b>Connect with Me</b></td>
-    <td align="center"><b>Languages I've Learned</b></td>
+    <td align="center"><strong>💻 Languages and Tools</strong></td>
+    <td align="center"><strong>🔗 Connect with Me</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="linkedin-icon.png" width="40"></td>
-    <td align="center">Python</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="github-icon.png" width="40"></td>
-    <td align="center">C</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="twitter-icon.png" width="40"></td>
-    <td align="center">JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="portfolio-icon.png" width="40"></td>
-    <td align="center">HTML & CSS</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40">
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
+      <a href="https://github.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"></a>
+      <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"></a>
+    </td>
   </tr>
 </table>
