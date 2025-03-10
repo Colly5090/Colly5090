@@ -20,9 +20,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:your.email@example.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/yourhandle"><img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" width="40"></a>
+      <a href="mailto:colly0087@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/collins-boakye"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
+      <a href="https://x.com/colly5090"><img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" width="40"></a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> &nbsp;&nbsp;&nbsp;
@@ -37,3 +37,13 @@
     </td>
   </tr>
 </table>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colly5090&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colly5090&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=colly5090&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=colly5090&theme=darkhub)
