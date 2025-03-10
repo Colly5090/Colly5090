@@ -20,9 +20,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"></a>
+      <a href="https://github.com/yourusername">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/            Octicons-mark-github.svg" width="40">
+    </a> &nbsp;&nbsp;&nbsp;
+      <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a> &nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"></a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> &nbsp;&nbsp;&nbsp;
