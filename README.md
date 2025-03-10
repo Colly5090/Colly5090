@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=plastic)
 
-![Static Badge](https://img.shields.io/badge/Portfolio-view)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://yourportfolio.com)
 
 - 💻 Software Engineer specialized in Frontend Development.
 - 🎓 ALX School Graduate – trained in modern software engineering practices.
