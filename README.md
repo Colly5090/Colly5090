@@ -6,9 +6,13 @@
 
 <h3 align="center"><strong>A passionate Software Engineer from Ghana</strong></h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=PROFILE%20VIEWS&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=plastic)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio--blue?style=for-the-badge&logo=workplace)](https://yourportfolio.com)
+
+[![Portfolio](https://img.shields.io/badge/Follow%20%40Colly5090--blue?style=for-the-badge)](https://x.com/colly5090)
+
+![GitHub followers](https://img.shields.io/github/followers/colly5090?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fcolly5090%3Ftab%3Dfollowers)
 
 - 💻 Software Engineer specialized in Frontend Development.
 - 🎓 ALX School Graduate – trained in modern software engineering practices.
