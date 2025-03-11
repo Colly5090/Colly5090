@@ -4,14 +4,12 @@
 
 <h2 align="center"><strong>Hi, I'm Collins Boakye</strong></h2>
 
-<h3 align="center"><strong>A passionate Software Engineer from Ghana</strong></h3>
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=for-the-badge) 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio--blue?style=for-the-badge&logo=workplace)](https://yourportfolio.com) 
-[![Follow](https://img.shields.io/badge/Follow%20%40Colly5090--blue?style=for-the-badge&logo=x)](https://x.com/colly5090) 
+![Profile Views](https://komarev.com/ghpvc/?username=colly5090&label=Profile%20Views&color=blue&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio--blue?style=for-the-badge&logo=workplace)](https://yourportfolio.com)
+[![Follow](https://img.shields.io/badge/Follow%20%40Colly5090--blue?style=for-the-badge&logo=x)](https://x.com/colly5090)
 ![GitHub followers](https://img.shields.io/github/followers/colly5090?style=for-the-badge&logo=github)
-</p>
+
+<h3 align="center"><strong>A passionate Software Engineer from Ghana</strong></h3>
 
 - 💻 Software Engineer specialized in Frontend Development.
 - 🎓 ALX School Graduate – trained in modern software engineering practices.
